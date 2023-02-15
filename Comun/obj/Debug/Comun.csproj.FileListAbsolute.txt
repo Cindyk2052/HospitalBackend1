@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\trabajo\Hospital-Backend\Comun\bin\Debug\Comun.dll
+C:\Users\Lenovo\Desktop\trabajo\Hospital-Backend\Comun\bin\Debug\Comun.pdb
+C:\Users\Lenovo\Desktop\trabajo\Hospital-Backend\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\trabajo\Hospital-Backend\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\trabajo\Hospital-Backend\Comun\obj\Debug\Comun.dll
+C:\Users\Lenovo\Desktop\trabajo\Hospital-Backend\Comun\obj\Debug\Comun.pdb
+C:\Users\PC\Desktop\trabajo\Hospital-Backend\Hospital-Backend\Comun\bin\Debug\Comun.dll
+C:\Users\PC\Desktop\trabajo\Hospital-Backend\Hospital-Backend\Comun\bin\Debug\Comun.pdb
+C:\Users\PC\Desktop\trabajo\Hospital-Backend\Hospital-Backend\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\trabajo\Hospital-Backend\Hospital-Backend\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\trabajo\Hospital-Backend\Hospital-Backend\Comun\obj\Debug\Comun.dll
+C:\Users\PC\Desktop\trabajo\Hospital-Backend\Hospital-Backend\Comun\obj\Debug\Comun.pdb
